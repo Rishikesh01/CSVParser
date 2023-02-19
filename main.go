@@ -1,5 +1,7 @@
 package main
 
+import "CSVParser/csv"
+
 func main() {
-	$END$
+	csv.ProcessFile()
 }
